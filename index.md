@@ -1,4 +1,4 @@
-:books: Development Note
+📚 Development Note
 ===========================
 ![GitHub contributors](https://img.shields.io/github/contributors/Mandory/my-js?color=%23F94293&style=flat-square)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMandory%2Fmy-js&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
