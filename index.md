@@ -11,6 +11,7 @@ MY-JS Study Note
   * [== vs ===](https://github.com/kuongee/my-js/blob/main/JavaScript/equalityCompare.md)
   * [Event Loop](https://github.com/kuongee/my-js/blob/main/JavaScript/eventLoop.md)
   * [Prototype](https://github.com/kuongee/my-js/blob/main/JavaScript/prototype.md)
+  * [객체 만들기](https://github.com/kuongee/my-js/blob/main/JavaScript/object.md)
 
 ### 개발 중 알게 된 것
   * [Map 함수에서 Async Await 사용하기](https://github.com/kuongee/my-js/blob/main/JavaScript/asyncAwaitMap.md)
