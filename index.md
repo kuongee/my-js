@@ -11,6 +11,8 @@ MY-JS Study Note
   * [Event Loop](https://github.com/kuongee/my-js/blob/main/JavaScript/eventLoop.md)
   * [Prototype](https://github.com/kuongee/my-js/blob/main/JavaScript/prototype.md)
   * [객체 만들기](https://github.com/kuongee/my-js/blob/main/JavaScript/object.md)
+  * [비동기 프로그래밍 - Callback, Promise, async/await](https://github.com/kuongee/my-js/blob/main/JavaScript/asynchronus.md)
+  * [Array (+ Array.from())](https://github.com/kuongee/my-js/blob/main/JavaScript/array.md)
 
 ### 개발 중 알게 된 것
   * [Map 함수에서 Async Await 사용하기](https://github.com/kuongee/my-js/blob/main/JavaScript/asyncAwaitMap.md)
