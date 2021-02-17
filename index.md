@@ -17,6 +17,7 @@ MY-JS Study Note
 
 ### DOM
   * [DOM 정리](https://github.com/kuongee/my-js/blob/main/JavaScript/dom.md)
+  * [스크립트 로드 되었니?](https://github.com/kuongee/my-js/blob/main/JavaScript/dom_script.md)
 
 ## 개발 중 알게 된 것
   * [Map 함수에서 Async Await 사용하기](https://github.com/kuongee/my-js/blob/main/JavaScript/asyncAwaitMap.md)
