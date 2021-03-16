@@ -9,7 +9,7 @@ MY-JS Study Note
   * [this에 대해서](https://github.com/kuongee/my-js/blob/main/JavaScript/aboutThis.md)
   * [클로저](https://github.com/kuongee/my-js/blob/main/JavaScript/closure.md)
   * [== vs ===](https://github.com/kuongee/my-js/blob/main/JavaScript/equalityCompare.md)
-  * [Event Loop](https://github.com/kuongee/my-js/blob/main/JavaScript/eventLoop.md)
+  * [Event Loop](https://github.com/kuongee/my-js/blob/main/JavaScript/microTaskQueue.md)
   * [Prototype](https://github.com/kuongee/my-js/blob/main/JavaScript/prototype.md)
   * [객체 만들기](https://github.com/kuongee/my-js/blob/main/JavaScript/object.md)
   * [비동기 프로그래밍 - Callback, Promise, async/await](https://github.com/kuongee/my-js/blob/main/JavaScript/asynchronus.md)
