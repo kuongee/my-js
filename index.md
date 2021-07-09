@@ -20,18 +20,19 @@
 - [DOM 정리](https://github.com/kuongee/my-js/blob/kuongee/Frontend/dom.md)
 - [스크립트 로드 되었니?](https://github.com/kuongee/my-js/blob/kuongee/Frontend/dom_script.md)
 
-## 개발 중 알게 된 것
+### 개발 중 알게 된 것
 
 - [Map 함수에서 Async Await 사용하기](https://github.com/kuongee/my-js/blob/kuongee/Frontend/asyncAwaitMap.md)
 - [async constructor](https://github.com/kuongee/JS-Study/blob/master/study/asyncConstructor.md)
+- [Babel에서 core-js 문제 발생](https://github.com/kuongee/my-js/blob/kuongee/Frontend/babel/related/babelCorejs.md)
 
-## 이것저것
+### 이것저것
 
 - [Babel에 대해서](https://github.com/kuongee/my-js/tree/kuongee/Frontend/babel)
 - [Basic Webpack](https://github.com/kuongee/JS-Study/tree/master/my-first-webpack)
 - [Webpack DevServer](https://github.com/kuongee/my-js/blob/kuongee/Webpack/devServer.md)
 
-## 참고
+### 참고
 
 - [참고할 자료들](https://github.com/kuongee/my-js/blob/kuongee/Frontend/reference.md)
 - [읽고 기억에 남는 자료들](https://github.com/kuongee/my-js/blob/kuongee/Frontend/articles.md)
